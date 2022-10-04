@@ -1,0 +1,15 @@
+C:\Users\Onotole\Desktop\FinalWork\Task\Task_array\bin\Debug\net6.0\Task_array.exe
+C:\Users\Onotole\Desktop\FinalWork\Task\Task_array\bin\Debug\net6.0\Task_array.deps.json
+C:\Users\Onotole\Desktop\FinalWork\Task\Task_array\bin\Debug\net6.0\Task_array.runtimeconfig.json
+C:\Users\Onotole\Desktop\FinalWork\Task\Task_array\bin\Debug\net6.0\Task_array.dll
+C:\Users\Onotole\Desktop\FinalWork\Task\Task_array\bin\Debug\net6.0\Task_array.pdb
+C:\Users\Onotole\Desktop\FinalWork\Task\Task_array\obj\Debug\net6.0\Task_array.csproj.AssemblyReference.cache
+C:\Users\Onotole\Desktop\FinalWork\Task\Task_array\obj\Debug\net6.0\Task_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onotole\Desktop\FinalWork\Task\Task_array\obj\Debug\net6.0\Task_array.AssemblyInfoInputs.cache
+C:\Users\Onotole\Desktop\FinalWork\Task\Task_array\obj\Debug\net6.0\Task_array.AssemblyInfo.cs
+C:\Users\Onotole\Desktop\FinalWork\Task\Task_array\obj\Debug\net6.0\Task_array.csproj.CoreCompileInputs.cache
+C:\Users\Onotole\Desktop\FinalWork\Task\Task_array\obj\Debug\net6.0\Task_array.dll
+C:\Users\Onotole\Desktop\FinalWork\Task\Task_array\obj\Debug\net6.0\refint\Task_array.dll
+C:\Users\Onotole\Desktop\FinalWork\Task\Task_array\obj\Debug\net6.0\Task_array.pdb
+C:\Users\Onotole\Desktop\FinalWork\Task\Task_array\obj\Debug\net6.0\Task_array.genruntimeconfig.cache
+C:\Users\Onotole\Desktop\FinalWork\Task\Task_array\obj\Debug\net6.0\ref\Task_array.dll
